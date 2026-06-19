@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudyMate</string>
+
+    <string-array name="task_filter_options">
+        <item>All</item>
+        <item>Pending</item>
+        <item>Completed</item>
+    </string-array>
+
+    <string-array name="task_status_options">
+        <item>Pending</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
